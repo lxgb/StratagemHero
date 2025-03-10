@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">StratagemHero</string>
+    <string name="mainTitle">STRATAGEM HERO</string>
+    <string name="restartButton">RESTART</string>
+    <string name="stratagemPromptTitle">SELECT A STRATAGEM COMBO</string>
+    <string name="reinforceText">REINFORCE</string>
+    <string name="resupplyText">RESUPPLY</string>
+    <string name="expendableAntiTankText">EXPENDABLE ANTI-TANK</string>
+    <string name="eagleAirstrikeText">EAGLE AIRSTRIKE</string>
+    <string name="eagle500KGBombText">EAGLE 500KG BOMB</string>
+    <string name="correctComboText">CORRECT COMBOS</string>
+    <string name="comboCountVal" translatable="false">0</string>
+    <string name="stratagemName">STRATAGEM NAME</string>
+
+    <!--    keys for intent bundles-->
+    <string name="key_stratagem_name" translatable="false" />
+    <string name="key_stratagem_icon" translatable="false" />
+    <string name="key_stratagem_color" translatable="false" />
+    <string name="key_stratagem_combo_images" translatable="false" />
+    <string name="key_stratagem_combo_count" translatable="false" />
+    <string name="tvCongratulations">CONGRATULATIONS, YOU HAVE COMPLETED ALL COMBOS.</string>
+    <string name="btnCompleteBack">GO BACK</string>
+    <string name="tvCourseName">SPRING COSC-195-001 A1</string>
+    <string name="tvProjectMembers"><![CDATA[MADE BY ALEX G., & KHOI TRAN]]></string>
+    <string name="tvDisplayOverall">OVERALL COMBOS COMPLETED</string>
+</resources>
